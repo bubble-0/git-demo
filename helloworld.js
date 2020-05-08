@@ -8,14 +8,3 @@ asdasdasd
 
 new
 
-	asdsadkjlaskd
-
-
-
-<<<<<<< HEAD
-aaaaaaaaaaaaaaaa
-=======
-cccccccccccccc
->>>>>>> C
-
-adasd
