@@ -8,3 +8,13 @@ asdasdasd
 
 new
 
+<<<<<<< HEAD
+=======
+	asdsadkjlaskd
+
+
+
+cccccccccccccc
+
+cccccccccccccc
+>>>>>>> C
