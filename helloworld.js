@@ -12,4 +12,10 @@ new
 
 
 
+<<<<<<< HEAD
 aaaaaaaaaaaaaaaa
+=======
+cccccccccccccc
+>>>>>>> C
+
+adasd
